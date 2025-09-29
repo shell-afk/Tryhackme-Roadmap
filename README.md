@@ -45,7 +45,7 @@
 
 - [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
