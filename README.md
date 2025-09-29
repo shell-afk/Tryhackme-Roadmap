@@ -93,13 +93,11 @@
 
 - [x] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
-- [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
+- [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
-
-- [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
+- [x] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 ## Recon
 
@@ -129,7 +127,7 @@
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [x] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -149,17 +147,17 @@
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
 - [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
 - [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -175,7 +173,7 @@
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
@@ -235,7 +233,7 @@
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
+- [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
 - [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
@@ -243,7 +241,7 @@
 
 - [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [x] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
