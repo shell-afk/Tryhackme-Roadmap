@@ -95,7 +95,7 @@
 
 - [x] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
-- [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
+- [x] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
 - [x] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
@@ -151,15 +151,11 @@
 
 - [x] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
-
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
-
 - [x] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
 - [x] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+- [x] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
