@@ -2,9 +2,8 @@
 
 ---
 
-This was an idead i took form rng70 repositorie.
+This was an idead i took from rng70 repositorie.
 
-<br/>
 <br/>
 
 ## Table of Contents
