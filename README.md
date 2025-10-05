@@ -87,7 +87,7 @@ My Tryhackme Profile: [Tryhackme Profile](https://tryhackme.com/p/shellafk)
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [x] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
@@ -133,17 +133,14 @@ My Tryhackme Profile: [Tryhackme Profile](https://tryhackme.com/p/shellafk)
 
 - [x] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [x] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
-- [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
+- [x] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [x] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [x] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
-
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
 
 ## Networking
 
