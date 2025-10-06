@@ -162,7 +162,7 @@ My Tryhackme Profile: [Tryhackme Profile](https://tryhackme.com/p/shellafk)
 
 - [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
+- [x] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
 - [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
